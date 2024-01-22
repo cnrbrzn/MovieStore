@@ -72,17 +72,22 @@ namespace WebApi.DBOperations
                         LastName = "Borazan",
                         Email = "canerborazan@gmail.com",
                         Password = "12345",
-                        Order = new List<Order>(),
-                        FavoriteGenres = new List<Genre>()
                     }
                 );
                 context.Orders.AddRange(
                     new Order
                     {
                         CustomerId=1,
-                        Movie=new List<Movie>(),
+                        MovieId=1,
                         TotalPrice=50,
                         PurchaseDate=DateTime.Now
+                    },
+                    new Order
+                    {
+                        CustomerId = 2,
+                        MovieId = 2,
+                        TotalPrice = 100,
+                        PurchaseDate = DateTime.Now
                     });
 
                 context.SaveChanges();

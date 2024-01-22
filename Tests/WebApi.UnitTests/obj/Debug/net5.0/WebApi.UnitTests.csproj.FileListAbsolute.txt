@@ -1,0 +1,6 @@
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.csproj.AssemblyReference.cache
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.AssemblyInfoInputs.cache
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.AssemblyInfo.cs
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.csproj.CoreCompileInputs.cache

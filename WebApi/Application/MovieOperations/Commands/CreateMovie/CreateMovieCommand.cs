@@ -38,7 +38,6 @@ namespace WebApi.Application.MovieOperations.Commands.CreateMovie
         public DateTime ReleaseDate { get; set; }
         public int GenreID { get; set; }
         public int DirectorID { get; set; }
-        public List<Actor> Actor { get; set; }
         public float Price { get; set; }
     }
 }

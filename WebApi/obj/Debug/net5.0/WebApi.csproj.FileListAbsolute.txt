@@ -10,6 +10,7 @@ C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\WebA
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
@@ -17,11 +18,18 @@ C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Micr
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
@@ -39,4 +47,3 @@ C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\WebA
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
-C:\Users\borazanc\source\repos\Pratikler\MovieStore\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
